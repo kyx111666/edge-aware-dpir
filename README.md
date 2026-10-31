@@ -1,4 +1,4 @@
-# DPIR图像去模糊
+# Edge-Aware DPIR
 
 基于DPIR的非盲灰度图像去模糊实现。在保持DRUNet及8轮迭代不变的条件下，对数据一致性子问题加入频率加权与空间自适应增量约束，并使用预条件共轭梯度求解。
 
@@ -7,8 +7,8 @@
 使用Python 3.12，默认在CPU上运行，使用2个计算线程。
 
 ```bash
-git clone https://github.com/kyx111666/dpir-deblurring-final-project.git
-cd dpir-deblurring-final-project
+git clone https://github.com/kyx111666/edge-aware-dpir.git
+cd edge-aware-dpir
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements-lock.txt
