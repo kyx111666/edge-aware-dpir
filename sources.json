@@ -1,0 +1,97 @@
+{
+  "repository": "https://github.com/cszn/DPIR",
+  "files": [
+    {
+      "path": "upstream/DPIR/LICENSE",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/LICENSE"
+    },
+    {
+      "path": "upstream/DPIR/README.md",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/README.md"
+    },
+    {
+      "path": "upstream/DPIR/main_dpir_deblur.py",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/main_dpir_deblur.py"
+    },
+    {
+      "path": "upstream/DPIR/models/network_unet.py",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/models/network_unet.py"
+    },
+    {
+      "path": "upstream/DPIR/models/basicblock.py",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/models/basicblock.py"
+    },
+    {
+      "path": "upstream/DPIR/utils/utils_sisr.py",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/utils/utils_sisr.py"
+    },
+    {
+      "path": "upstream/DPIR/utils/utils_pnp.py",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/utils/utils_pnp.py"
+    },
+    {
+      "path": "upstream/DPIR/utils/utils_image.py",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/utils/utils_image.py"
+    },
+    {
+      "path": "upstream/DPIR/utils/utils_model.py",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/utils/utils_model.py"
+    },
+    {
+      "path": "data/set12/01.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/01.png"
+    },
+    {
+      "path": "data/set12/02.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/02.png"
+    },
+    {
+      "path": "data/set12/03.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/03.png"
+    },
+    {
+      "path": "data/set12/04.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/04.png"
+    },
+    {
+      "path": "data/set12/05.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/05.png"
+    },
+    {
+      "path": "data/set12/06.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/06.png"
+    },
+    {
+      "path": "data/set12/07.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/07.png"
+    },
+    {
+      "path": "data/set12/08.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/08.png"
+    },
+    {
+      "path": "data/set12/09.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/09.png"
+    },
+    {
+      "path": "data/set12/10.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/10.png"
+    },
+    {
+      "path": "data/set12/11.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/11.png"
+    },
+    {
+      "path": "data/set12/12.png",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/testsets/set12/12.png"
+    },
+    {
+      "path": "data/kernels/Levin09.mat",
+      "url": "https://raw.githubusercontent.com/cszn/DPIR/15bca3fcc1f3cc51a1f99ccf027691e278c19354/kernels/Levin09.mat"
+    },
+    {
+      "path": "weights/drunet_gray.pth",
+      "url": "https://github.com/cszn/KAIR/releases/download/v1.0/drunet_gray.pth"
+    }
+  ]
+}

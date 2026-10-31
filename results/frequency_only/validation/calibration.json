@@ -1,0 +1,30 @@
+{
+  "beta": 0.3,
+  "validation_scores": [
+    {
+      "beta": 0.0,
+      "psnr": 32.66300126598019,
+      "ssim": 0.8807409229023073
+    },
+    {
+      "beta": 0.3,
+      "psnr": 32.7126125678454,
+      "ssim": 0.8825896720899137
+    },
+    {
+      "beta": 1.0,
+      "psnr": 32.27977458922018,
+      "ssim": 0.8757604619433683
+    },
+    {
+      "beta": 3.0,
+      "psnr": 21.285626039925496,
+      "ssim": 0.3621504405640992
+    }
+  ],
+  "selection_images": [
+    "01",
+    "02"
+  ],
+  "selection_rule": "Maximise validation mean PSNR among prespecified positive beta values; beta=0 is the control"
+}

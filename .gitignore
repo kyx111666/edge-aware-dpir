@@ -1,0 +1,36 @@
+# Only the reproducible implementation and required assets are versioned.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/core_solver.py
+!/core_experiment.py
+!/core_protocol.json
+!/experiment.py
+!/prepare.py
+!/check_core_results.py
+!/test_core_solver.py
+!/requirements.txt
+!/requirements-lock.txt
+!/sources.json
+!/data/
+!/upstream/
+
+# Frozen calibration is required for a demo from a fresh checkout.
+!/results/
+/results/*
+!/results/core/
+/results/core/*
+!/results/core/validation/
+/results/core/validation/*
+!/results/core/validation/calibration.json
+!/results/frequency_only/
+/results/frequency_only/*
+!/results/frequency_only/validation/
+/results/frequency_only/validation/*
+!/results/frequency_only/validation/calibration.json
+
+__pycache__/
+*.py[cod]
+.DS_Store
+*.part
