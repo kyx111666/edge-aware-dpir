@@ -3,6 +3,9 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
+!/demo/
+/demo/*
+!/demo/video.mov
 !/core_solver.py
 !/core_experiment.py
 !/core_protocol.json
